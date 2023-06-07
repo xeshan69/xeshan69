@@ -9,6 +9,9 @@ li{
     padding:30px;
     
 }
+#navbarNav{
+    z-index:1;
+}
 
 #gray{
     position: absolute;
