@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center"> Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeshan69&label=Profile%20views&color=0e75b6&style=flat" alt="xeshan69" /> </p>
 
