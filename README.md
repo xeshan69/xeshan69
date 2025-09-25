@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Logistack**
 
-- 🌱 I’m currently learning **Nodejs,express**
+- 🌱 I’m currently learning **ASP .NET Core**
 
 - 🤝 I’m looking for help with **Any Open issue**
 
